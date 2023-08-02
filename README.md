@@ -14,7 +14,7 @@ Here are some of the features of Prime:
 * Variety of topics: There are forums for a wide variety of topics, so you're sure to find something that interests you.
 * Image uploading: You can upload images to your forums or to your profile, which is a great way to illustrate your points or share something beautiful.
 * Commenting and liking: Other users can comment on your forums and images, and they can also like your content. This helps to foster discussion and engagement, and it also helps to promote the best content.
-* 
+
 I hope you enjoy using Prime! 😁😁
 
-![Screenshot](images/screenshot.png)
+![Screenshot](Image/HomePage.jpg)
